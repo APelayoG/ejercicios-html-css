@@ -1,0 +1,11 @@
+{
+  "name": "p1",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Álvaro Pelayo García <apelayog@uoc.edu>",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
